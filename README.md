@@ -1,9 +1,9 @@
 # geomatica2
 
-## Autor: 
+### Autor: 
 Laura Sofia Trevejo
 
-## Fecha de creación:
+### Fecha de creación:
 16/06/2025
 
 ## CARTOGRAFÍA
